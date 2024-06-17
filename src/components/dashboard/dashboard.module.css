@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
+.card {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+}
+
+.profileName {
+    margin-left: 15px;
+}
+
+.link {
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.link:hover {
+    color: #2955BA;
+    transition: 0.2s;
+}
+
+.dashboardItemContainer {
+    transition: 0.2s;
+    border-radius: 5px;
+}
+
+.dashboardItem {
+    height: 48px;
+    
+}
+
+.dashboardItemContainer:hover {
+    background-color: #e0e0e0;
+    transition: 0.2s;
+}

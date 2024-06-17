@@ -1,0 +1,37 @@
+{
+  "name": "truckbuddy",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/kanit": "^5.0.20",
+    "@fontsource/noto-sans-jp": "^5.0.19",
+    "@materializecss/materialize": "^2.1.0",
+    "@mui/icons-material": "^5.15.20",
+    "@mui/lab": "^5.0.0-alpha.170",
+    "@mui/material": "^5.15.20",
+    "@mui/styles": "^5.15.20",
+    "@mui/system": "^5.15.20",
+    "@mui/x-charts": "^7.7.0",
+    "@react-google-maps/api": "^2.19.3",
+    "next": "14.2.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-material-ui-carousel": "^3.4.2",
+    "victory": "^37.0.2"
+  },
+  "devDependencies": {
+    "@types/materialize-css": "^1.0.14",
+    "@types/node": "^20",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "typescript": "^5"
+  }
+}
